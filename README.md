@@ -1,26 +1,24 @@
 # Project Report - README
+---
+title: IUCommuterPass (IUCP) - README
+---
 
-## Report Description
-This project report presents the findings and analysis of a study conducted to investigate the impact of social media on consumer purchasing behavior. The report provides insights into the relationship between social media usage and consumer decision-making, highlighting key trends and patterns observed in the data.
+### Report Description
+The report provides an overview of the IUCommuterPass (IUCP) web application, which focuses on facilitating carpooling among students at Indiana University-Purdue University Indianapolis (IUPUI). It describes the background and target users, tools used for development, and provides an ERD diagram for better comprehension. The application's features, including sign-up, sign-in, forgot password, rider dashboard, and passenger dashboard, are explained in detail. The report also highlights the significance of the project, potential problems, and future scope.
 
-## Methodology
-The study utilized a mixed-methods approach, combining quantitative surveys and qualitative interviews. A sample of 500 participants was selected randomly from various demographics, and they were asked to complete an online survey regarding their social media usage and purchasing habits. Additionally, in-depth interviews were conducted with a subset of 20 participants to gain deeper insights into their experiences and motivations.
+### Methodology
+The project was developed using a combination of PHP, HTML, CSS, and JavaScript. The PHP Storm IDE was used for coding the web application, while HTML and CSS were utilized for styling and enhancing the user interface. The application also employed a PHP-My Admin database to store user data. The ERD diagram created using Draw i.o aided in understanding the project's architecture.
 
-The survey data was analyzed using statistical techniques such as correlation analysis and regression modeling. The qualitative data from the interviews was analyzed through thematic coding and content analysis, identifying recurring themes and patterns in the participants' responses.
+## Technologies Used
 
-## Insights
-The analysis revealed several key insights:
+- Front-end: HTML, CSS, JavaScript
+- Back-end: PHP
+- Database: MySQL
+- Frameworks: Bootstrap, jQuery
+  
+### Insights
+The IUCP web application offers a cost-effective and eco-friendly solution for student transportation needs. By promoting carpooling, it helps reduce expenses, traffic congestion, and pollution. The application's user-friendly interface, integrated messaging system, and additional features contribute to a seamless user experience. Further improvements such as integrating Google Maps API for accurate location tracking and expanding the application to other universities can enhance its usability and impact.
 
-1. Social media has a significant influence on consumer purchasing behavior, with 80% of respondents reporting that they have made a purchase based on information they saw on social media platforms.
-2. Instagram emerged as the most influential platform for product discovery and inspiration, particularly in the fashion and beauty industries.
-3. Trust and authenticity were identified as crucial factors in consumers' decision-making process. Influencer endorsements and user-generated content were found to be effective in building trust and influencing purchase decisions.
-4. Targeted advertising and personalized recommendations based on user preferences were perceived positively by consumers, leading to increased engagement and conversion rates.
-5. Social media also played a role in post-purchase behavior, with consumers sharing their experiences and opinions on products/services through reviews and social media posts.
 
-These findings highlight the growing importance of social media as a marketing tool and provide valuable insights for businesses looking to optimize their social media strategies and engage with their target audience effectively.
 
-## Conclusion
-Overall, this study demonstrates the significant impact of social media on consumer behavior and the need for businesses to adapt their marketing strategies accordingly. By understanding the preferences, motivations, and behaviors of consumers on social media, companies can better tailor their messaging, content, and advertising to maximize their reach and influence.
-
-For a detailed analysis and further insights, please refer to the full project report.
 
